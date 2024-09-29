@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1699444356 source:d:\c\trabalho3\gerador_de_testes.c
+	<stdlib.h>
+	<math.h>
+	"gerador_de_testes.h"
+
+1699444576 d:\c\trabalho3\gerador_de_testes.h
+	"imagem.h"
+	"trabalho3.h"
+
+1700003587 d:\c\trabalho3\imagem.h
+
+1699444596 d:\c\trabalho3\trabalho3.h
+	"imagem.h"
+
+1699444648 source:d:\c\trabalho3\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+
+1702346308 source:d:\c\trabalho3\main.c
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"gerador_de_testes.h"
+	"trabalho3.h"
+
+1702345782 source:d:\c\trabalho3\t3-2609797-2556588-2192926.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"trabalho3.h"
+	"imagem.h"
+
+1699444356 source:d:\c\fp\trabalho3\gerador_de_testes.c
+	<stdlib.h>
+	<math.h>
+	"gerador_de_testes.h"
+
+1699444576 d:\c\fp\trabalho3\gerador_de_testes.h
+	"imagem.h"
+	"trabalho3.h"
+
+1700003587 d:\c\fp\trabalho3\imagem.h
+
+1699444596 d:\c\fp\trabalho3\trabalho3.h
+	"imagem.h"
+
+1699444648 source:d:\c\fp\trabalho3\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+
+1702346308 source:d:\c\fp\trabalho3\main.c
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"gerador_de_testes.h"
+	"trabalho3.h"
+
+1702352252 source:d:\c\fp\trabalho3\t3-2609797-2556588-2192926.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"trabalho3.h"
+	"imagem.h"
+
